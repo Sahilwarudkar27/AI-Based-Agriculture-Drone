@@ -34,10 +34,9 @@ Our primary objective is to harness the power of AI and drone technology to faci
 
 ### Image
 
-<img align ="centre" alt="coding" width="500" src="">
+<img align ="centre" alt="coding" width="500" src="https://github.com/Sahilwarudkar27/AI-Based-Agriculture-Drone/blob/main/Media-Gallery/Drone.jpeg">
 
 ## Getting Started
-
 
 
 ### Video
