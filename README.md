@@ -90,7 +90,7 @@ We welcome contributions from the community! To contribute:
 
 ## Contact
 
-For any questions or inquiries, please contact us at [rugwedjalit@gmail.com](mailto:rugvedjalit@gmail.com).
+For any questions or inquiries, please contact us at [sahilwarudkar2002@gmail.com](mailto:sahilwarudkar2002@gmail.com).
 
 ## License
 
