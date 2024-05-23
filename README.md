@@ -50,13 +50,13 @@ To get started with the project, follow these steps:
 1\. Clone the repository:
 ```bash
 
-   git clone https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture.git
+   git clone https://github.com/Sahilwarudkar27/AI-Based-Agriculture-Drone.git
 ```
 
 2\. Navigate to the project directory:
 ```bash
 
-   cd AI-based-Drone-for-Precision-Agriculture
+   cd AI-Based-Agriculture-Drone
 
 ```
 
